@@ -10,7 +10,7 @@
 * Delete one or all users
 * Re-issue all users
 
-## 1. How to install
+## How to install
 
 ```
 curl -O https://raw.githubusercontent.com/intens1ty/3proxy.sh/master/3proxy.sh
