@@ -1,12 +1,16 @@
-## Скрипт установки 3proxy на Centos7.
-### Умеет:
-* Устанавливать 3proxy.
-* Удалять 3proxy
-* Добавлять указанное количество пользователей
-* Удалять одного/всех пользователей
-* Перевыпускать всех пользователей
+# 3proxy.sh - bash script to install and setup 3proxy on Centos7.
 
-### Установка:
+### Supported OS:
+* Centos 7
+
+### Functional:
+* Install 3proxy.
+* Remove 3proxy
+* Add the specified number of users
+* Delete one or all users
+* Re-issue all users
+
+### Install:
 ```
 curl -O https://raw.githubusercontent.com/intens1ty/3proxy.sh/master/3proxy.sh
 chmod +x 3proxy.sh
