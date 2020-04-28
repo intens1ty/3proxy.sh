@@ -1,9 +1,9 @@
 # 3proxy.sh - bash script to install and setup 3proxy
 
-## Supported OS:
+## Supported OS
 * Centos 7
 
-## Functional:
+## Functional
 * Install 3proxy.
 * Remove 3proxy
 * Add the specified number of users
