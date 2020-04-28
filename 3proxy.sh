@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created by MegaLoadOn.
+# Created by intens1ty.
 
 # Defining function installing 3proxy on CentOS
 install_centos() {
